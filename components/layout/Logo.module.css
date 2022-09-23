@@ -1,0 +1,19 @@
+.logo {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Oswald", sans-serif;
+  color: rgb(212, 209, 209);
+  font-size: 25px;
+  border: 1px solid #eaeaea;
+  border-radius: 25px;
+  display: inline-block;
+  padding: 5px;
+  /* background: #0b0b0b;
+  background: linear-gradient(90deg, #0b0b0b 0%, #797979 80%);
+  background: -webkit-linear-gradient(90deg, #0b0b0b 0%, #797979 80%);
+  background: -moz-linear-gradient(90deg, #0b0b0b 0%, #797979 80%); */
+  background: #0b0b0b;
+  background: linear-gradient(90deg, #0b0b0b 0%, #797979 90%);
+  background: -webkit-linear-gradient(90deg, #0b0b0b 0%, #797979 90%);
+  background: -moz-linear-gradient(90deg, #0b0b0b 0%, #797979 90%);
+}
